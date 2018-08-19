@@ -1,5 +1,3 @@
-# Calculator-Form-App
-C# Form App
 # -----------------> Calculate Class 
 using System;
 using System.Collections.Generic;
