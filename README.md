@@ -1,6 +1,6 @@
 ![hesapla](https://user-images.githubusercontent.com/29266933/44431965-c4d23780-a5a8-11e8-8afe-f195dee1203f.gif)
 
-# -----------------> Calculate Class 
+## -----------------> Calculate Class 
 
 ```sh
 
@@ -38,9 +38,9 @@ namespace Calculator
         }
     }
 }
-
+```
 # -----------------> Form1 Class 
-
+```sh
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
